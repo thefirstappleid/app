@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/WellerZhao/apps/master/SmartCommunityUser/SmartCommunityUser.ipa</string>
+					<string>https://app.kuaiyong.com/kuaiyaojing.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ehongcn.SmartCommunityUser</string>
+				<string>com.kuaiyaojing.phonelive</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SmartCommunity_User</string>
+				<string>kuaiyaojing</string>
 			</dict>
 		</dict>
 	</array>
